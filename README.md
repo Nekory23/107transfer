@@ -30,4 +30,6 @@ Score : 90.9%
   - Polynomials : 90% --- 9/10
   - Rigor : 100% --- 6/6
 
+Made with Quentin TREHEUX (LuciferBahamut)
+
 Beware of -42 Epitech students !!!
