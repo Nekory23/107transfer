@@ -1,6 +1,5 @@
 # 107transfer
-
-{EPITECH} | First year | Math project
+# {EPITECH} | First year | Math project
 
 A laboratory performs tests on new electronic components to be integrated into its last generation chipset. Those
 components are entirely characterized by their transfer function, which determines frequency response ; this function
@@ -19,17 +18,18 @@ See the subject for further details !
 
 ========================
 
-2nd semester Maths unit
+## 2nd semester Maths unit
 
 Grade : B | Mark : 17.8
 
-Score : 90.9%
+| Category           | Percentage | Tests     | Crash ? |
+|--------------------|------------|-----------|---------|
+| Basic              | 100%       | 3/3       | x       |
+| Mathematical rigor | 66.7%      | 2/3       | x       |
+| Polynomials        | 90%        | 9/10      | x       |
+| Rigor              | 100%       | 6/6       | x       |
+| **End scores**     | **90.9%**  | **20/22** | **No**  |
 
-  - Basic : 100% --- 3/3
-  - Mathematical rigor : 66.7% --- 2/3
-  - Polynomials : 90% --- 9/10
-  - Rigor : 100% --- 6/6
-
-Made with Quentin TREHEUX (LuciferBahamut)
+Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
 
 Beware of -42 Epitech students !!!
